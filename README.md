@@ -1,0 +1,2 @@
+# A-Real-time-Attendance-system-Using-Face-Recognition-
+In the field of Computer vision, the problem of traditional attendance systems Incorporates using Face  recognition which includes features like employees In Time, Actual Time, and Late Hours with Dates,  which are implemented using Open CV and Face Recognition libraries. Algorithms such as Histogram of  Oriented Gradients (HOG) and Face landmark Estimation for face detection and deep convolutional  neural network are used for face recognition.
